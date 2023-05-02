@@ -1,14 +1,14 @@
 {
     "gamesData": [
         {
-            "appVersion": "1",
-            "appName": "WeddingStylistBridalMakeup",
-            "appLink": "https://play.google.com/store/apps/details?id=com.prestigegamestudio.wedding.stylistbridal.makeup.games"
+            "appVersion": "0",
+            "appName": "FashionShowStylistGame",
+            "appLink": "https://play.google.com/store/apps/details?id=com.cgs.fashionshow.stylist.game"
         },
         {
             "appVersion": "1",
-            "appName": "WeddingStylistBridalMakeups",
-            "appLink": "https://play.google.com/store/apps/details?id=com.prestigegamestudio.wedding.stylistbridal.makeup.games"
+            "appName": "FashionWeddingDressupGame",
+            "appLink": "https://play.google.com/store/apps/details?id=com.cgs.fashion.wedding.dressupgame"
         }
     ],
 
