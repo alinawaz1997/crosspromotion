@@ -1,0 +1,20 @@
+{
+    "gamesData": [
+        {
+            "appVersion": "0",
+            "appName": "FashionShowGirlsMakeupGame",
+            "appLink": "https://play.google.com/store/apps/details?id=com.prestigegamestudio.fashionshow.girls.makeup.games"
+        },
+        {
+            "appVersion": "1",
+            "appName": "WeddingStylistBridalMakeup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.prestigegamestudio.wedding.stylistbridal.makeup.games"
+        }
+    ],
+
+    "adsData": [
+          {
+         "canShowCP":true
+          }
+    ]
+}
