@@ -1,0 +1,20 @@
+{
+    "gamesData": [
+        {
+            "appVersion": "0",
+            "appName": "FairyMakeupandDressupGames",
+            "appLink": "https://play.google.com/store/apps/details?id=com.prestigegamestudio.fairy.makeup.dressup.games"
+        },
+        {
+            "appVersion": "1",
+            "appName": "FashionShowGirlsMakeupGame",
+            "appLink": "https://play.google.com/store/apps/details?id=com.prestigegamestudio.fashionshow.girls.makeup.games"
+        }
+    ],
+
+    "adsData": [
+          {
+         "canShowCP":true
+          }
+    ]
+}
