@@ -1,0 +1,20 @@
+{
+    "gamesData": [
+        {
+            "appVersion": "0",
+            "appName": "monstertruck",
+            "appLink": "https://global.app.mi.com/details?lo=ID&la=en_US&id=com.cgsmi.monster.truckcarstuntsgames.megarampsracing.games"
+        },
+        {
+            "appVersion": "1",
+            "appName": "monstertruck",
+            "appLink": "https://global.app.mi.com/details?lo=ID&la=en_US&id=com.cgsmi.monster.truckcarstuntsgames.megarampsracing.games"
+        }
+    ],
+
+    "adsData": [
+          {
+         "canShowCP":true
+          }
+    ]
+}
