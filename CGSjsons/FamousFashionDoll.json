@@ -2,13 +2,13 @@
     "gamesData": [
         {
             "appVersion": "0",
-            "appName": "FashionShowStylistGame",
-            "appLink": "https://play.google.com/store/apps/details?id=com.cgs.fashionshow.stylist.game"
+            "appName": "FashionWeddingStylistGame",
+            "appLink": "https://play.google.com/store/apps/details?id=com.colorgamesstudio.fashion.weddingstylist.game"
         },
         {
             "appVersion": "1",
-            "appName": "FashionWeddingDressupGame",
-            "appLink": "https://play.google.com/store/apps/details?id=com.cgs.fashion.wedding.dressupgame"
+            "appName": "DressupFashionShowGame",
+            "appLink": "https://play.google.com/store/apps/details?id=com.cgs.dressup.fashionshow.games"
         }
     ],
 
