@@ -1,0 +1,20 @@
+{
+    "gamesData": [
+        {
+            "appVersion": "0",
+            "appName": "StylistWeddingMakeupGames",
+            "appLink": "https://play.google.com/store/apps/details?id=com.anbgamez.wedding.stylistbridal.makeupdressup.games"
+        },
+        {
+            "appVersion": "1",
+            "appName": "StylistWeddingMakeupGames",
+            "appLink": "https://play.google.com/store/apps/details?id=com.anbgamez.wedding.stylistbridal.makeupdressup.games"
+        }
+    ],
+
+    "adsData": [
+          {
+         "canShowCP":true
+          }
+    ]
+}
