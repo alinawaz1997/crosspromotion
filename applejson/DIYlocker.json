@@ -1,0 +1,20 @@
+{
+    "gamesData": [
+        {
+            "appVersion": "0",
+            "appName": "SprayPaint",
+            "appLink": "https://apps.apple.com/us/app/spray-paint-art-diy-locker-3d/id6471344239"
+        },
+        {
+            "appVersion": "1",
+            "appName": "SprayPaint",
+            "appLink": "https://apps.apple.com/us/app/spray-paint-art-diy-locker-3d/id6471344239"
+        }
+    ],
+
+    "adsData": [
+          {
+         "canShowCP":true
+          }
+    ]
+}
