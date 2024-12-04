@@ -1,0 +1,20 @@
+{
+    "gamesData": [
+        {
+            "appVersion": "0",
+            "appName": "locker",
+            "appLink": "https://www.amazon.com/3D-DIY-Locker-Paint-Games/dp/B0CW18MSKM"
+        },
+        {
+            "appVersion": "1",
+            "appName": "locker",
+            "appLink": "https://www.amazon.com/3D-DIY-Locker-Paint-Games/dp/B0CW18MSKM"
+        }
+    ],
+
+    "adsData": [
+          {
+         "canShowCP":true
+          }
+    ]
+}
