@@ -1,0 +1,20 @@
+{
+    "gamesData": [
+        {
+            "appVersion": "0",
+            "appName": "PrincessDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.anbgamez.princess.dressup.makeup.games"
+        },
+        {
+            "appVersion": "1",
+            "appName": "DressupMakeover",
+            "appLink": "https://play.google.com/store/apps/details?id=com.anbgamez.dressup.makeovergirls.games"
+        }
+    ],
+
+    "adsData": [
+          {
+         "canShowCP":true
+          }
+    ]
+}
