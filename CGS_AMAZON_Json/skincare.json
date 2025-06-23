@@ -1,0 +1,20 @@
+{
+    "gamesData": [
+        {
+            "appVersion": "0",
+            "appName": "diyflag",
+            "appLink": "https://www.amazon.com/DIY-Flag-Paint-Games-Relaxing/dp/B0DK9CWDJH"
+        },
+        {
+            "appVersion": "1",
+            "appName": "diyflag",
+            "appLink": "https://www.amazon.com/DIY-Flag-Paint-Games-Relaxing/dp/B0DK9CWDJH"
+        }
+    ],
+
+    "adsData": [
+          {
+         "canShowCP":true
+          }
+    ]
+}
