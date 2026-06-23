@@ -1,0 +1,40 @@
+{
+    "gamesData": [
+        {
+            "appVersion": "0",
+            "appName": "IndianWeddingDressUpGame",
+            "appLink": "https://play.google.com/store/apps/details?id=com.kidsfunmedia.indian.wedding.dressup.games"
+        },
+        {
+            "appVersion": "1",
+            "appName": "IndianWeddingLehengaGame",
+            "appLink": "https://play.google.com/store/apps/details?id=com.kidsfunmedia.indianwedding.lehenga.games"
+        },
+        {
+            "appVersion": "2",
+            "appName": "ModelFashionMakeoverDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.kidsfunmedia.modelfashion.makeoverdressup.games"
+        },
+        {
+            "appVersion": "3",
+            "appName": "StarGirlBeautyMakeupGames",
+            "appLink": "https://play.google.com/store/apps/details?id=com.kidsfunmedia.makeupgames.dressupgamesforgirls.games"
+        },
+        {
+            "appVersion": "4",
+            "appName": "DollDressup",
+            "appLink": "https://play.google.com/store/apps/details?id=com.kidsfunmedia.indianbridal.dressup.games"
+        },
+        {
+            "appVersion": "5",
+            "appName": "WeddingDressUpMakeupGame",
+            "appLink": "https://play.google.com/store/apps/details?id=com.kidsfunmedia.weddingdressup.makeup.games"
+        }
+    ],
+
+    "adsData": [
+          {
+         "canShowCP":true
+          }
+    ]
+}
