@@ -1,0 +1,20 @@
+{
+    "gamesData": [
+        {
+            "appVersion": "0",
+            "appName": "fashionshow",
+            "appLink": "https://www.amazon.com/gp/mas/dl/android?showAll=1&p=com.kfmamzon.fashionstylist.gameshow"
+        },
+        {
+            "appVersion": "1",
+            "appName": "fashionshow",
+            "appLink": "https://www.amazon.com/gp/mas/dl/android?showAll=1&p=com.kfmamzon.fashionstylist.gameshow"
+        }
+    ],
+
+    "adsData": [
+          {
+         "canShowCP":true
+          }
+    ]
+}
